@@ -1,0 +1,4 @@
+product_id,product_name,market,category,purchases,conversions
+PRD1001,POÄNG Chair,DK,Chairs,1200,120
+PRD1002,LACK Table,DK,Tables,2500,300
+PRD1003,KALLAX Shelf,DK,Storage,4000,500
